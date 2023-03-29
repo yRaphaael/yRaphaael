@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello I am Victor Raphael 👋
 
-<!--
-**yRaphaael/yRaphaael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Java
 
-Here are some ideas to get you started:
+[![Victor Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=yRaphaael&show_icons=true&theme=tokyonight)](https://github.com/yRaphaael/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yRaphaael&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block"><br>
+<img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+<img align="center" width="50" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/victor-raphael-a41978253/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
+  </a>
+   <a href="https://github.com/yRaphaael/" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="blank">
+  </a>
+  <a href="https://www.instagram.com/raphaael_007/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank">
+  </a>
+</div>
