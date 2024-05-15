@@ -22,7 +22,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/victor-raphael-a41978253/" target="blank">
+  <a href="https://www.linkedin.com/in/victorfigueiredocode" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
   </a>
    <a href="https://github.com/yRaphaael/" target="blank">
