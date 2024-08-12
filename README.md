@@ -1,6 +1,6 @@
 ## Hello I am Victor Raphael 👋
 
-- 🌱 I’m currently learning Java Spring
+- 🌱 I’m currently learning JavaScript.
 
 [![Victor Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=yRaphaael&show_icons=true&theme=tokyonight)](https://github.com/yRaphaael/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yRaphaael&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
